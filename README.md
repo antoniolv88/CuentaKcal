@@ -24,15 +24,15 @@ Clona el repositorio:
    git clone https://github.com/antoniolv88/CuentaKcal.git
 
 2. Navega a la carpeta:
-
+   ```bash
     cd PROYECTO_KCAL/frontend
 
 3. Instala las dependencias:
-
+   ```bash
     npm install
 
 4. Inicia el servidor de desarrollo:
-
+   ```bash
     npm start
 
 La aplicación estará disponible en http://localhost:3000.
@@ -40,15 +40,15 @@ La aplicación estará disponible en http://localhost:3000.
 **Backend**
 
 1. Navega a la carpeta del backend:
-
+   ```bash
     cd PROYECTO_KCAL/backend
 
 2. Instala las dependencias:
-
+   ```bash
     npm install
 
 3. Inicia el servidor:
-
+   ```bash
     node index.js
 
 El servidor estará disponible en http://localhost:3001 (ajusta el puerto si es necesario).
@@ -62,11 +62,11 @@ Consulta de Alimentos: Busca alimentos y consulta su contenido calórico.
 
 **Backend**
 Endpoints:
-GET /api/foods: Obtén la lista de alimentos.
-POST /api/foods: Añade un nuevo alimento.
-GET /api/foods/:id: Obtén detalles de un alimento específico.
-PUT /api/foods/:id: Actualiza un alimento.
-DELETE /api/foods/:id: Elimina un alimento.
+-**GET /api/foods**: Obtén la lista de alimentos.
+-**POST /api/foods**: Añade un nuevo alimento.
+-**GET /api/foods/:id**: Obtén detalles de un alimento específico.
+-**PUT /api/foods/:id**: Actualiza un alimento.
+-**DELETE /api/foods/:id**: Elimina un alimento.
 
 **Contribuciones**
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir:
