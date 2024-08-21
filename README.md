@@ -61,12 +61,14 @@ Registro de Comidas: Añade nuevas comidas y registra las calorías.
 Consulta de Alimentos: Busca alimentos y consulta su contenido calórico.
 
 **Backend**
+
 Endpoints:
--**GET /api/foods**: Obtén la lista de alimentos.
--**POST /api/foods**: Añade un nuevo alimento.
--**GET /api/foods/:id**: Obtén detalles de un alimento específico.
--**PUT /api/foods/:id**: Actualiza un alimento.
--**DELETE /api/foods/:id**: Elimina un alimento.
+
+- **GET /api/foods**: Obtén la lista de alimentos.
+- **POST /api/foods**: Añade un nuevo alimento.
+- **GET /api/foods/:id**: Obtén detalles de un alimento específico.
+- **PUT /api/foods/:id**: Actualiza un alimento.
+- **DELETE /api/foods/:id**: Elimina un alimento.
 
 **Contribuciones**
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir:
