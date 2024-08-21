@@ -15,7 +15,8 @@
 
 Para ejecutar la aplicación localmente, sigue estos pasos:
 
-Frontend
+**Frontend**
+
 Clona el repositorio:
 
 1. Clona el repositorio:
@@ -36,7 +37,7 @@ Clona el repositorio:
 
 La aplicación estará disponible en http://localhost:3000.
 
-Backend 
+**Backend**
 
 1. Navega a la carpeta del backend:
 
@@ -52,19 +53,22 @@ Backend
 
 El servidor estará disponible en http://localhost:3001 (ajusta el puerto si es necesario).
 
-Uso
-Frontend
+## Uso
+**Frontend**
+
 Página de Inicio: Visualiza el resumen de calorías.
 Registro de Comidas: Añade nuevas comidas y registra las calorías.
 Consulta de Alimentos: Busca alimentos y consulta su contenido calórico.
-Backend 
+
+**Backend**
 Endpoints:
 GET /api/foods: Obtén la lista de alimentos.
 POST /api/foods: Añade un nuevo alimento.
 GET /api/foods/:id: Obtén detalles de un alimento específico.
 PUT /api/foods/:id: Actualiza un alimento.
 DELETE /api/foods/:id: Elimina un alimento.
-Contribuciones
+
+**Contribuciones**
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir:
 
 Haz un fork del repositorio.
@@ -72,10 +76,12 @@ Crea una rama para tu característica (git checkout -b feature/nueva-caracterist
 Realiza tus cambios y haz commit (git commit -am 'Añadir nueva característica').
 Haz push a la rama (git push origin feature/nueva-caracteristica).
 Abre una solicitud de extracción (Pull Request) en GitHub.
-Licencia
+
+
+## Licencia
 Este proyecto está licenciado bajo la MIT License.
 
 
-Estado del Proyecto
+**Estado del Proyecto**
 En desarrollo: ¡Estamos trabajando en nuevas características y mejoras!
 Próximos pasos: Añadir autenticación de usuario, mejorar la interfaz, integrar con APIs de alimentos.
