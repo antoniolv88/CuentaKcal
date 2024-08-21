@@ -8,7 +8,7 @@
 ## Tecnologías Utilizadas
 
 - **Frontend**: [React](https://reactjs.org/), [React Router](https://reactrouter.com/), [Axios](https://axios-http.com/), [Bootstrap](https://getbootstrap.com/)
-- **Backend** (si aplicable): [Express.js](https://expressjs.com/), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/) (opcional)
+- **Backend**: [Express.js](https://expressjs.com/), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/) (opcional)
 - **Despliegue**: [Vercel](https://vercel.com/) para el frontend, [GitHub](https://github.com/) para control de versiones
 
 ## Instalación
